@@ -1,0 +1,508 @@
+[
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/gtasatelem.set",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/gtasatelem.set",
+    "thresholdSizeKB": 392
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/gta_sa.set",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/gta_sa.set",
+    "thresholdSizeKB": 159
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/stream.ini",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/stream.ini",
+    "thresholdSizeKB": 197
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/anim/anim.img",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/anim/anim.img",
+    "thresholdSizeKB": 10942464
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/anim/cuts.img",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/anim/cuts.img",
+    "thresholdSizeKB": 270096384
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/anim/ped.ifp",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/anim/ped.ifp",
+    "thresholdSizeKB": 1733780
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/CONFIG/AudioEventHistory.txt",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/CONFIG/AudioEventHistory.txt",
+    "thresholdSizeKB": 114056
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/CONFIG/BankLkup.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/CONFIG/BankLkup.dat",
+    "thresholdSizeKB": 8520
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/CONFIG/BankSlot.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/CONFIG/BankSlot.dat",
+    "thresholdSizeKB": 216902
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/CONFIG/EventVol.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/CONFIG/EventVol.dat",
+    "thresholdSizeKB": 45402
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/CONFIG/PakFiles.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/CONFIG/PakFiles.dat",
+    "thresholdSizeKB": 468
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/CONFIG/SOUNDINF.DAT",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/CONFIG/SOUNDINF.DAT",
+    "thresholdSizeKB": 746760
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/CONFIG/StrmPaks.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/CONFIG/StrmPaks.dat",
+    "thresholdSizeKB": 272
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/CONFIG/TrakLkup.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/CONFIG/TrakLkup.dat",
+    "thresholdSizeKB": 23064
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/CONFIG/TRK.DAT",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/CONFIG/TRK.DAT",
+    "thresholdSizeKB": 283633664
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/CONFIG/TRKHEAD.DAT",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/CONFIG/TRKHEAD.DAT",
+    "thresholdSizeKB": 15506696
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/SFX/FEET.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/SFX/FEET.osw",
+    "thresholdSizeKB": 138118
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/SFX/FEET.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/SFX/FEET.osw.idx",
+    "thresholdSizeKB": 1220
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/SFX/GENRL.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/SFX/GENRL.osw",
+    "thresholdSizeKB": 9362373
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/SFX/GENRL.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/SFX/GENRL.osw.idx",
+    "thresholdSizeKB": 20868
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/SFX/PAIN_A.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/SFX/PAIN_A.osw",
+    "thresholdSizeKB": 3247335
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/SFX/PAIN_A.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/SFX/PAIN_A.osw.idx",
+    "thresholdSizeKB": 12836
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/AA.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/AA.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/AA.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/AA.osw.idx",
+    "thresholdSizeKB": 1522
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/ADVERTS.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/ADVERTS.osw",
+    "thresholdSizeKB": 3516982
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/ADVERTS.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/ADVERTS.osw.idx",
+    "thresholdSizeKB": 1591
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/AMBIENCE.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/AMBIENCE.osw",
+    "thresholdSizeKB": 22719112
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/AMBIENCE.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/AMBIENCE.osw.idx",
+    "thresholdSizeKB": 924
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/BEATS.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/BEATS.osw",
+    "thresholdSizeKB": 9415375
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/BEATS.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/BEATS.osw.idx",
+    "thresholdSizeKB": 234
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/CH.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/CH.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/CH.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/CH.osw.idx",
+    "thresholdSizeKB": 2994
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/CO.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/CO.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/CO.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/CO.osw.idx",
+    "thresholdSizeKB": 3569
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/CR.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/CR.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/CR.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/CR.osw.idx",
+    "thresholdSizeKB": 3592
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/CUTSCENE.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/CUTSCENE.osw",
+    "thresholdSizeKB": 301175
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/CUTSCENE.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/CUTSCENE.osw.idx",
+    "thresholdSizeKB": 3247
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/DS.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/DS.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/DS.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/DS.osw.idx",
+    "thresholdSizeKB": 4121
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/HC.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/HC.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/HC.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/HC.osw.idx",
+    "thresholdSizeKB": 2649
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/MH.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/MH.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/MH.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/MH.osw.idx",
+    "thresholdSizeKB": 3500
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/MR.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/MR.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/MR.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/MR.osw.idx",
+    "thresholdSizeKB": 3385
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/NJ.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/NJ.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/NJ.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/NJ.osw.idx",
+    "thresholdSizeKB": 2994
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/RE.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/RE.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/RE.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/RE.osw.idx",
+    "thresholdSizeKB": 3707
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/RG.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/RG.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/RG.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/RG.osw.idx",
+    "thresholdSizeKB": 3914
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/TK.osw",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/TK.osw",
+    "thresholdSizeKB": 15462
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/audio/STREAMS/TK.osw.idx",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/audio/STREAMS/TK.osw.idx",
+    "thresholdSizeKB": 2327
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/360Default1280x720.cfg",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/360Default1280x720.cfg",
+    "thresholdSizeKB": 10898
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/360Default960x720.cfg",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/360Default960x720.cfg",
+    "thresholdSizeKB": 10888
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/animgrp.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/animgrp.dat",
+    "thresholdSizeKB": 3096
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/ar_stats.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/ar_stats.dat",
+    "thresholdSizeKB": 3593
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/carcols.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/carcols.dat",
+    "thresholdSizeKB": 15361
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/cargrp.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/cargrp.dat",
+    "thresholdSizeKB": 3963
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/carmods.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/carmods.dat",
+    "thresholdSizeKB": 9110
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/clothes.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/clothes.dat",
+    "thresholdSizeKB": 5317
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/colorcycle.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/colorcycle.dat",
+    "thresholdSizeKB": 13612
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/default.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/default.dat",
+    "thresholdSizeKB": 577
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/default.ide",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/default.ide",
+    "thresholdSizeKB": 4679
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/fonts.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/fonts.dat",
+    "thresholdSizeKB": 3576
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/furnitur.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/furnitur.dat",
+    "thresholdSizeKB": 16480
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/gridref.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/gridref.dat",
+    "thresholdSizeKB": 1498
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/gta.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/gta.dat",
+    "thresholdSizeKB": 3776
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/handling.cfg",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/handling.cfg",
+    "thresholdSizeKB": 64539
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/info.zon",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/info.zon",
+    "thresholdSizeKB": 28139
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/map.zon",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/map.zon",
+    "thresholdSizeKB": 436
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/melee.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/melee.dat",
+    "thresholdSizeKB": 6306
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/object.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/object.dat",
+    "thresholdSizeKB": 126118
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/ped.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/ped.dat",
+    "thresholdSizeKB": 1276
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/pedgrp.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/pedgrp.dat",
+    "thresholdSizeKB": 5792
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/peds.ide",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/peds.ide",
+    "thresholdSizeKB": 36369
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/pedstats.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/pedstats.dat",
+    "thresholdSizeKB": 3604
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/plants.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/plants.dat",
+    "thresholdSizeKB": 9887
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/popcycle.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/popcycle.dat",
+    "thresholdSizeKB": 127108
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/procobj.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/procobj.dat",
+    "thresholdSizeKB": 10019
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/shopping.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/shopping.dat",
+    "thresholdSizeKB": 46875
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/ShopUVs.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/ShopUVs.dat",
+    "thresholdSizeKB": 30509
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/statdisp.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/statdisp.dat",
+    "thresholdSizeKB": 7292
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/surface.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/surface.dat",
+    "thresholdSizeKB": 576
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/surfaud.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/surfaud.dat",
+    "thresholdSizeKB": 6530
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/surfinfo.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/surfinfo.dat",
+    "thresholdSizeKB": 28106
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/timecyc.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/timecyc.dat",
+    "thresholdSizeKB": 40037
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/TouchDefaultPhone3x2.cfg",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/TouchDefaultPhone3x2.cfg",
+    "thresholdSizeKB": 10912
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/TouchDefaultPhoneWidescreen.cfg",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/TouchDefaultPhoneWidescreen.cfg",
+    "thresholdSizeKB": 10924
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/TouchDefaultTablet4x3.cfg",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/TouchDefaultTablet4x3.cfg",
+    "thresholdSizeKB": 10926
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/TouchDefaultTabletWidescreen.cfg",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/TouchDefaultTabletWidescreen.cfg",
+    "thresholdSizeKB": 10923
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/txdcut.ide",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/txdcut.ide",
+    "thresholdSizeKB": 478
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/vehicles.ide",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/vehicles.ide",
+    "thresholdSizeKB": 21093
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/water.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/water.dat",
+    "thresholdSizeKB": 70099
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/water1.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/water1.dat",
+    "thresholdSizeKB": 60063
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/weapon.dat",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/weapon.dat",
+    "thresholdSizeKB": 11602
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/Decision/PedEvent.txt",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/Decision/PedEvent.txt",
+    "thresholdSizeKB": 1298
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/Decision/Allowed/Cop.ped",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/Decision/Allowed/Cop.ped",
+    "thresholdSizeKB": 4908
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/Decision/Allowed/Fireman.ped",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/Decision/Allowed/Fireman.ped",
+    "thresholdSizeKB": 4435
+  },
+  {
+    "fileUrl": "http://191.96.92.100/CopyLauncher/game/data/Decision/Allowed/GangMbr.ped",
+    "filePath": "/storage/emulated/0/Android/CopyLauncher/data/Decision/Allowed/GangMbr.ped",
+    "thresholdSizeKB": 6194
+  },
+  {
+    "fileUrl"
